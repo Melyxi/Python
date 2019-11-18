@@ -1,1 +1,1 @@
-Hello worldgit commit -m 'Первый коммит'
+﻿Hello git
