@@ -1,2 +1,3 @@
 ﻿Hello git ewrwerwer
 новая строка 
+другая строка
