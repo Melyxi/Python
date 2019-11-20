@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63dfa6d3-6b0d-48d3-9b37-ecc805117ffa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/User.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_lessons1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../readmi.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="63dfa6d3-6b0d-48d3-9b37-ecc805117ffa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
